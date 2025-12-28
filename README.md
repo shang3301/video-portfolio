@@ -2,18 +2,15 @@
 This repository serves as an index to my video portfolio, submitted as supplementary material for my college applications.  
 The projects reflect my primary interest in computer science, with design and visual thinking used as tools to explore social impact, systems, and sustained curiosity.
 
----
-
-## How to View This Portfolio
-All projects are presented within a single video including their aim, previews and how they align with my goals.
 **Video Portfolio:** https://vimeo.com/your-link-here  
+
 ---
 
 ## Projects
 
-### 1. Expense Manager Application - Computer Science
+### 1. Expense Tracker Application - Computer Science
 
-**Source Code:** 
+**Source Code:** https://github.com/shang3301/expense-tracker
 
 **Focus Areas:** Python, SQL, Data Structures, Data Visualization
 
@@ -35,9 +32,9 @@ This project emphasized the importance of persistence in debugging interconnecte
 
 ### 2. School Competition Website (IMAGE) - Computer Science & Web Development
 
-**Source Code:** 
+**Source Code:** https://github.com/shang3301/image
 
-**Website Link:** 
+**Website Link:** https://csnimage.vercel.app/ 
 
 **Focus Areas:** React, TypeScript, Frontend Architecture, Animation
 
@@ -59,7 +56,7 @@ This project helped me understand how design decisions emerge from constraints, 
 
 ### 3. Tree Donation App - UI/UX for Social Impact
 
-**Showcase:** 
+**Showcase:** https://www.behance.net/gallery/240566993/Echo
 
 **Focus Areas:** UI/UX Design, Human-Centered Design
 
@@ -101,9 +98,8 @@ This project deepened my understanding of how subtle design choices can guide us
 
 ## Common Themes
 Across these projects, I consistently focused on:
-- Building systems end-to-end  
-- Learning through experimentation and iteration  
-- Using design as a means to amplify technical ideas  
+- Building end-to-end  systems 
+- Learning through trial and error  
 - Applying technical skills toward social and human-centered goals  
 
 ---
