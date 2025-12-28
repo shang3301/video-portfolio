@@ -1,8 +1,6 @@
 # Video Project Portfolio
-This repository serves as an index to my video portfolio, submitted as supplementary material for my college applications.  
+This repository serves as a context to my video portfolio, submitted as supplementary material for my college applications.  
 The projects reflect my primary interest in computer science, with design and visual thinking used as tools to explore social impact, systems, and sustained curiosity.
-
-**Video Portfolio:** https://vimeo.com/your-link-here  
 
 ---
 
