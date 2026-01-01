@@ -15,9 +15,6 @@ The projects reflect my primary interest in computer science, with design and vi
 **Overview**  
 I built a desktop expense manager using Python, SQL, and Tkinter that allows users to create accounts, manage tables, record transactions, and generate graphical analyses of spending patterns.
 
-**Motivation**  
-I was interested in how abstract concepts such as data organization and querying translate into tools that help users make sense of their own behavior.
-
 **Key Ideas Explored**
 - Relational database design  
 - User-driven data creation and querying  
@@ -39,9 +36,6 @@ This project emphasized the importance of persistence in debugging interconnecte
 **Overview**  
 I developed a responsive website for a school competition using React and TypeScript, incorporating GSAP animations to guide user attention while maintaining performance and accessibility.
 
-**Motivation**  
-I wanted to explore how structured code and intentional motion design can communicate information more effectively than static pages.
-
 **Key Ideas Explored**
 - Component-based design  
 - Responsive layouts across devices  
@@ -61,9 +55,6 @@ This project helped me understand how design decisions emerge from constraints, 
 **Overview**  
 I designed a tree donation application focused on minimizing friction, building trust, and clearly communicating impact to users.
 
-**Motivation**  
-I was interested in how digital interfaces can encourage participation in social good by reducing cognitive and emotional barriers.
-
 **Key Ideas Explored**
 - User flow optimization  
 - Designing for transparency and trust  
@@ -80,9 +71,6 @@ This project reinforced my belief that technology’s impact depends less on nov
 
 **Overview**  
 I designed an art auction platform that balances clarity with urgency, allowing users to engage with artwork while navigating competitive decision-making.
-
-**Motivation**  
-I wanted to explore how interface structure influences perception of value and time-sensitive choice.
 
 **Key Ideas Explored**
 - Information hierarchy under time constraints  
