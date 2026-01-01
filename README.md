@@ -1,6 +1,6 @@
 # Video Project Portfolio
-This repository serves as a context to my video portfolio, submitted as supplementary material for my college applications (Fall 2025, Regular Decision).  
-The projects reflect my primary interest in computer science, with design and visual thinking used as tools to explore social impact, systems, and curiosity.
+This repository is a context to my video portfolio, submitted as supplementary material for my college applications (Fall 2025, Regular Decision).  
+The projects reflect my interest in computer science, with design and visual thinking used as tools to explore social impact, systems, and curiosity.
 
 ---
 
